@@ -5,3 +5,9 @@ Leetcode solutions in python-
   - Tree
   - Linked List
   - Searching/Sorting
+  - Bfs
+  - Dfs
+  - Graphs
+  - Dynamic Programming
+  - Shortest path
+
